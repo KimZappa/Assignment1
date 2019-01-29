@@ -23,19 +23,23 @@ g) git log --grep=comment
 
 h) Inheritance in object oriented programming allows us to create a new object class from
 an already defined objects class.
-Polymorphism is when a parent and child classes have the same function with the same name and 
-parameters but different implementations depending on the type of object that calls the function. 
-Encapsulation is binding up data and the member functions that use them. When creating a class
-there is member data that we dont want a user to have access to so we use manipulator and
-accessor functions to let the user access data but not change the original member data. 
+Polymorphism is when a parent and child classes have the same function with the same name
+and parameters but different implementations depending on the type of object that 
+calls the function. 
+Encapsulation is binding up data and the member functions that use them. When creating 
+a class there is member data that we dont want a user to have access to so we use 
+manipulator and accessor functions to let the user access data but not change 
+the original member data. 
 
 i) In the Dictator and Lieutenants workflow everyone pulls from the central repository. 
-Only the dictator can push changes in the central repository.  In the Integration management workflow each
-user makes push and pull to their own personal repository and pull from the central repository.
+Only the dictator can push changes in the central repository.  In the Integration 
+management workflow each user makes push and pull to their own personal repository
+and pull from the central repository.
 
-j) Since there are 100 developers they would benefit more because they could still pull from the central 
-repository but the person in charge is the only one who can push the changes. Since there are so many 
-different people working on the same repository if mutliple people were pushing their changes without 
-one person over seeing the whole project there could be a lot of errors. The liutenant oversees all the 
+j) Since there are 100 developers they would benefit more because they could still 
+pull from the central repository but the person in charge is the only one who can 
+push the changes. Since there are so many different people working on the same 
+repository if mutliple people were pushing their changes without one person over 
+seeing the whole project there could be a lot of errors. The liutenant oversees all the 
 changes and assists in any issues that arise. 
 
