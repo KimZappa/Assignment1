@@ -4,4 +4,5 @@ Your branch is up to date with 'origin/master'.
 nothing to commit, working tree clean
 
 11 commits. git shortlog
-Thu Jan 10 16:45:38 2019, git log -n 1 .gitignore 
+Thu Jan 10 16:45:38 2019, git log -n 1 .gitignore
+Branches  used to move through different commits in the project. The master  branch is the one youre 
