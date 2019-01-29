@@ -19,7 +19,7 @@ git status shows the working tree status, whether the project is up to date.
 
 f) git log --follow Weapon.h
 
-g) git log --grep=comment
+g) git log --grep=file
 
 h) Inheritance in object oriented programming allows us to create a new object class from
 an already defined objects class.
