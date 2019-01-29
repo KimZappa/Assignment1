@@ -5,4 +5,7 @@ nothing to commit, working tree clean
 
 11 commits. git shortlog
 Thu Jan 10 16:45:38 2019, git log -n 1 .gitignore
-Branches are pointers that allow you to move through different commits. The default one is the master that points to the last commit you make. As you continue to make new commits the master branch will continue to move to the last one you made. You can create a new branch to isolate work on a certain problem or feauture independently from the rest of the project. After working on the new branch you can revert back to the work you were doing before by going back to the master branch. 
+Branches are pointers that allow you to move through different commits. The default one is the master that points to the last commit you
+make. As you continue to make new commits the master branch will continue to move to the last one you made. You can create a new branch to
+isolate work on a certain problem or feauture independently from the rest of the project. After working on the new branch you can revert
+back to the work you were doing before by going back to the master branch. 
