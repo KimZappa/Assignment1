@@ -1,4 +1,10 @@
-#include "Weapon.h" //inherit from abstract class Weaopon
+/*  file: SimpleHammer.h
+	developed by: Kimberly Zappa
+	
+	Declares the object simple hammer. Calls the weapon constructor with 25 hit points. 
+	
+*/
+#include "Weapon.h"
 
 #ifndef SIMPLEHAMMER_H
 #define SIMPLEHAMMER_H
@@ -17,4 +23,3 @@ public:
 };
 
 #endif /* SimpleHammer */
-

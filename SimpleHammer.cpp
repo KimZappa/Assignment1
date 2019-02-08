@@ -1,3 +1,9 @@
+/*
+	file: SimpleHammer.cpp
+	developed by: Kimberly Zappa
+	
+	Defines the behavior of a simple hammer. If the armor is lessthan 30, the hammer will ignore all the armor points.
+*/
 #include "SimpleHammer.h"
 
 
