@@ -43,3 +43,11 @@ repository if mutliple people were pushing their changes without one person over
 seeing the whole project there could be a lot of errors. The liutenant oversees all the 
 changes and assists in any issues that arise. 
 
+
+5. OOP principles
+These classes use encapsulation because we hide data from outside the class by making member data 
+private. In the Weapon factory class there is private member data that we cant access from outside
+the class. The class does have a get function. 
+These classes also have polymorphism because we use virtual functions such as hit. A pointer to weapon
+could point to anythign that inherits that class such as CrazyRandomSword, JackHammer, etc. 
+
