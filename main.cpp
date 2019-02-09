@@ -1,7 +1,7 @@
-
 /* 
  * File:   main.cpp
  * Author: Javier <jrescobara@gmail.com> 
+ edited by Kimberly Zappa 
  *
  * Created on September 25, 2017, 3:19 PM
  */
@@ -38,19 +38,19 @@ int main(int argc, char** argv) {
     weapon = WeaponFactory::getInstance()->getWeapon("spear");
     simulateWeapon(weapon, armor);
     delete(weapon);
-    
-    weapon = WeaponFactory::getInstance()->getWeapon("hammer");
+	
+	weapon = WeaponFactory::getInstance()->getWeapon("hammer");
     simulateWeapon(weapon, armor);
     delete(weapon);
-
+	
 	weapon = WeaponFactory::getInstance()->getWeapon("random");
     simulateWeapon(weapon, armor);
     delete(weapon);
-
+	
 	weapon = WeaponFactory::getInstance()->getWeapon("jack");
     simulateWeapon(weapon, armor);
     delete(weapon);
+	
 
     return 0;
 }
-
